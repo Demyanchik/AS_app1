@@ -25,5 +25,6 @@ public class MainActivity extends AppCompatActivity {
 
         TextFunction tf = new TextFunction();
         nt.setText(tf.getValue());
+        //
     }
 }
